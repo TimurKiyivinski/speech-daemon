@@ -1,5 +1,5 @@
 # speech-daemon
-Free Speech User Powered Content Sharing Platform
+Initial Startup Weekend Sarawak 2016 Pitch
 
 ## development
 * Run `npm run up` to start Express.
